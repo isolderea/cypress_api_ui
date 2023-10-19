@@ -2,7 +2,7 @@
 A small test with Cypress on the Restfull Booker API and UI
 
 # Website URL
-https://automationintesting.online/"
+https://automationintesting.online/
 
 # API URL
 https://automationintesting.online/rooms
